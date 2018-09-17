@@ -1,5 +1,5 @@
 # ML
-ML scripts
+ML scripts in Python Jupyter notebook
 ## The project uses supervised learning algorithms to train models with Boston Housing dataset in order to make prediction of prices for clients who intend to purchase houses.
 ### Dataset: Boston Housing Prices and Features (e.g. numbers of rooms, student-to-teacher ratios, etc.) from Kaggle
 #### Project steps brief summary: 
