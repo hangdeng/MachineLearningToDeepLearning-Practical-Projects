@@ -5,7 +5,7 @@ ML scripts in Python Jupyter notebook
 #### Project steps brief summary: 
 1) Load Dataset
 2) Training and testing data splitting
-3) Train model using DecisionTreeClassifier
+3) Train model using DecisionTreeRegressor
 4) Evaluate the model with GridSearchCV cross validation
 5) Make prediction
 6) Justify if more features should be included.
