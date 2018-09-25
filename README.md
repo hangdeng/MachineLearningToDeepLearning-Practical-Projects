@@ -9,3 +9,6 @@ ML scripts in Python Jupyter notebook
 4) Evaluate the model with GridSearchCV cross validation
 5) Make prediction
 6) Justify if more features should be included.
+
+
+## Find_donors: This project evaluate three classifiers by training the models with training data and computing accuracy_score and f0.5_score for model performance on training data and testing data. The best model is selected based on computing time, and model performance. 
