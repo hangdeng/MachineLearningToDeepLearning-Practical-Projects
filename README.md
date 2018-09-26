@@ -15,3 +15,6 @@ Project steps brief summary:
 
 ## (2) Find_donors: ##
 -This project evaluate three classifiers (e.g. SVC, Statistical Gradient Descent classifier, essemble methods-adaboost, logistic regression, etc.) by training the models with training data and computing accuracy_score and f0.5_score for model performance on training data and testing data. The best model is selected based on computing time, and model performance. 
+
+## (3) Create customer segments
+-Unsupervised learning problem
