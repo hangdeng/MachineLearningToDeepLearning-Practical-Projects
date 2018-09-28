@@ -20,4 +20,4 @@ Project steps brief summary:
 3) After best model selected, GridSearchCV is used for hyperparameter tuning and model optimization. 
 
 ## (3) Create customer segments
--Unsupervised learning problem
+-Unsupervised learning problem (e.g. hierarchical clustering, Gaussian Mixture Models, complete- and average-link clustering, etc.)
