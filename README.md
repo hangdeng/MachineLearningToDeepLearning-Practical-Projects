@@ -14,7 +14,10 @@ Project steps brief summary:
 
 
 ## (2) Find_donors: ##
--This project evaluate three classifiers (e.g. SVC, Statistical Gradient Descent classifier, essemble methods-adaboost, logistic regression, etc.) by training the models with training data and computing accuracy_score and f0.5_score for model performance on training data and testing data. The best model is selected based on computing time, and model performance. 
+-This project 
+1) evaluate three classifiers (e.g. SVC, Statistical Gradient Descent classifier, essemble methods-adaboost, logistic regression, etc.) by training the models with training data and computing accuracy_score and f0.5_score for model performance on training data and testing data. 
+2) The best model is selected based on computing time, and model performance (accuracy_score, f0.5_score). 
+3) After best model selected, GridSearchCV is used for hyperparameter tuning and model optimization. 
 
 ## (3) Create customer segments
 -Unsupervised learning problem
