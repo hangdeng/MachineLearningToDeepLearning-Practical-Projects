@@ -1,5 +1,5 @@
 # ML
-
+=======
 Machine learning scripts in Python Jupyter notebook
 
 ### (1) Boston_housing: ###
@@ -16,12 +16,14 @@ Project steps brief summary:
 
 
 ### (2) Find_donors: ###
+------
 - Project steps:
 1) Evaluate three classifiers (e.g. SVC, Statistical Gradient Descent classifier, essemble methods-adaboost, logistic regression, etc.) by training the models with training data and computing accuracy_score and f0.5_score for model performance on training data and testing data. 
 2) The best model is selected based on computing time, and model performance (accuracy_score, f0.5_score). 
 3) After best model selected, GridSearchCV is used for hyperparameter tuning and model optimization. 
 
 ### (3) Create customer segments ###
+------
 - Unsupervised learning problem (e.g. hierarchical clustering, Gaussian Mixture Models, complete- and average-link clustering, etc.)
 - Project steps:
 1) Data Preprocessing: log transform, outlier detection (points falling out of 1.5 IQR and reasonably remove a few)
@@ -30,6 +32,6 @@ Project steps brief summary:
 4) Visualizaton, Prediction: pca.inverse_transform for centers of clusters, predict selected samples and compare with raw data.
 
 # DL
-
+======
 Deep learning scripts in Python Jupyter Notebook
 
