@@ -27,6 +27,6 @@ Project steps brief summary:
 3) Clustering: K-Means v.s. GaussianMixture Model; use of Silhouette score as evaluation metrics.
 4) Visualizaton, Prediction: pca.inverse_transform for centers of clusters, predict selected samples and compare with raw data.
 
-#DL
+# DL
 
 Deep learning scripts in Jupyter Notebook
