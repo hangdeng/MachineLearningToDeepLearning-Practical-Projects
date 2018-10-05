@@ -1,5 +1,4 @@
 # ML
-======
 
 Machine learning scripts in Python Jupyter notebook
 
@@ -33,7 +32,6 @@ Project steps brief summary:
 4) Visualizaton, Prediction: pca.inverse_transform for centers of clusters, predict selected samples and compare with raw data.
 
 # DL
-======
 
 Deep learning scripts in Python Jupyter Notebook
 
