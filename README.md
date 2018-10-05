@@ -1,5 +1,6 @@
 # ML
 =======
+
 Machine learning scripts in Python Jupyter notebook
 
 ### (1) Boston_housing: ###
@@ -33,5 +34,6 @@ Project steps brief summary:
 
 # DL
 ======
+
 Deep learning scripts in Python Jupyter Notebook
 
