@@ -1,3 +1,6 @@
+# Machine Learning, Deep Learning Practical Projects
+Github page: https://hangdeng.github.io/MachineLearningToDeepLearning-Practical-Projects/
+
 # ML
 
 Machine learning scripts in Python Jupyter notebook
