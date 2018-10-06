@@ -1,1 +1,3 @@
-# DL project repo for [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
+# DL project repo
+======
+[Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
