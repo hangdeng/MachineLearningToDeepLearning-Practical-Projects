@@ -1,5 +1,5 @@
 # Machine Learning, Deep Learning Practical Projects
-Github page: https://hangdeng.github.io/MachineLearningToDeepLearning-Practical-Projects/
+[Github Page](https://hangdeng.github.io/MachineLearningToDeepLearning-Practical-Projects/)
 
 # ML
 
