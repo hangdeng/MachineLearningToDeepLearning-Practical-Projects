@@ -40,6 +40,6 @@ Project steps brief summary:
 
 # DL
 
-Deep learning scripts in Python Jupyter Notebook
+[Deep learning scripts in Python Jupyter Notebook](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearningSpecialization)
 
 ------
