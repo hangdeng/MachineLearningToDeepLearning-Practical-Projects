@@ -25,7 +25,7 @@ Project steps brief summary:
 2) The best model is selected based on computing time, and model performance (accuracy_score, f0.5_score). 
 3) After best model selected, GridSearchCV is used for hyperparameter tuning and model optimization. 
 
-### (3) Create customer segments ###
+### (3) [Create_customer_segments](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/customer_segments.ipynb): ###
 ------
 - Unsupervised learning problem (e.g. hierarchical clustering, Gaussian Mixture Models, complete- and average-link clustering, etc.)
 - Project steps:
