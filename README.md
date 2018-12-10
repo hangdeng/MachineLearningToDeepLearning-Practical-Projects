@@ -34,9 +34,13 @@ Project steps brief summary:
 3) Clustering: K-Means v.s. GaussianMixture Model; use of Silhouette score as evaluation metrics.
 4) Visualizaton, Prediction: pca.inverse_transform for centers of clusters, predict selected samples and compare with raw data.
 
-### Machine learning with Matlab/Octave
 ------
+
+### Machine learning with Matlab/Octave
+
 [ML in Matlab/Octave](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/ML-Octave_Matlab)
+
+------
 
 # DL
 
