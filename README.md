@@ -5,7 +5,7 @@
 
 Machine learning scripts in Python Jupyter notebook
 
-### (1) Boston_housing: ###
+### (1) [Boston_housing](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/boston_housing.ipynb): ###
 ------
 - The project uses supervised learning algorithms to train models with Boston Housing dataset in order to make prediction of prices for clients who intend to purchase houses.
 Dataset: Boston Housing Prices and Features (e.g. numbers of rooms, student-to-teacher ratios, etc.) from Kaggle
