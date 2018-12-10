@@ -18,7 +18,7 @@ Project steps brief summary:
 6) Justify if more features should be included.
 
 
-### (2) Find_donors: ###
+### (2) [Find_donors](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/finding_donors.ipynb): ###
 ------
 - Project steps:
 1) Evaluate three classifiers (e.g. SVC, Statistical Gradient Descent classifier, essemble methods-adaboost, logistic regression, etc.) by training the models with training data and computing accuracy_score and f0.5_score for model performance on training data and testing data. 
