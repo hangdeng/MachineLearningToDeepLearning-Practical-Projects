@@ -49,3 +49,9 @@ Deep Learning Specialization
 [Deep learning scripts in Python Jupyter Notebook](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearningSpecialization)
 
 ------
+
+# DL
+
+[Deep Learning Practice Projects](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practice-Projects)
+
+------
