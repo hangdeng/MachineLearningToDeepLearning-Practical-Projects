@@ -49,3 +49,9 @@ Deep Learning Specialization
 [Deep learning scripts in Python Jupyter Notebook](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearningSpecialization)
 
 ------
+
+# DL
+
+[Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+
+------
