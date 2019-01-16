@@ -52,6 +52,6 @@ Deep Learning Specialization
 
 # DL
 
-[Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+[Deep Learning Nanodegree](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practice-Projects)
 
 ------
