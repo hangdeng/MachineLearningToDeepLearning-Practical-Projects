@@ -52,6 +52,6 @@ Deep Learning Specialization
 
 # DL
 
-[Deep Learning Practice Projects](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practice-Projects)
+[Deep Learning Practice Projects](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects)
 
 ------
