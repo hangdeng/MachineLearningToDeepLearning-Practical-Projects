@@ -1,3 +1,3 @@
 # DL Practical Projects
 ------
-[DLND]
+
