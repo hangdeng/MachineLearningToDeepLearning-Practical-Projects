@@ -1,6 +1,6 @@
 # Machine Learning, Deep Learning Practical Projects
 [Github Project Page](https://hangdeng.github.io/MachineLearningToDeepLearning-Practical-Projects/)
-[![License](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/LICENSE)]
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)]
 
 # ML
 
