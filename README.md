@@ -1,6 +1,8 @@
 # Machine Learning, Deep Learning Practical Projects
 [Github Project Page](https://hangdeng.github.io/MachineLearningToDeepLearning-Practical-Projects/)
 
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
+
 # ML
 
 Machine learning scripts in Python Jupyter notebook
