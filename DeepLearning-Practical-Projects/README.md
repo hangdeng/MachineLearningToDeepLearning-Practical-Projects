@@ -1,6 +1,6 @@
 # DL Practical Projects
 
-### (1) [Bike_sharing_prediction with simple neural nets](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearning-Practical-Projects/Project-Bike_sharing/Predicting_bike_sharing_data.ipynb)
+### (1) [Bike_sharing prediction with simple neural nets](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearning-Practical-Projects/Project-Bike_sharing/Predicting_bike_sharing_data.ipynb)
 ------
 Project brief summary:
 * Data processing: train, validation, and test data splitting, change to dummy variables, scale variables
