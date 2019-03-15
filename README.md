@@ -7,7 +7,7 @@
 
 Machine learning scripts in Python Jupyter notebook
 
-### (1) [Boston_housing](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/boston_housing.ipynb): ###
+### Project 1.1) [Boston_housing](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/boston_housing.ipynb): ###
 ------
 The project uses supervised learning algorithms to train models with Boston Housing dataset in order to make prediction of prices for clients who intend to purchase houses.
 Dataset: Boston Housing Prices and Features (e.g. numbers of rooms, student-to-teacher ratios, etc.) from Kaggle
@@ -20,14 +20,14 @@ Project steps brief summary:
 * Justify if more features should be included.
 
 
-### (2) [Find_donors](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/finding_donors.ipynb): ###
+### Project 1.2) [Find_donors](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/finding_donors.ipynb): ###
 ------
 Project steps:
 * Evaluate three classifiers (e.g. SVC, Statistical Gradient Descent classifier, essemble methods-adaboost, logistic regression, etc.) by training the models with training data and computing accuracy_score and f0.5_score for model performance on training data and testing data. 
 * The best model is selected based on computing time, and model performance (accuracy_score, f0.5_score). 
 * After best model selected, GridSearchCV is used for hyperparameter tuning and model optimization. 
 
-### (3) [Create_customer_segments](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/customer_segments.ipynb): ###
+### Project 1.3) [Create_customer_segments](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/customer_segments.ipynb): ###
 ------
 Project brief summary:
 - Unsupervised learning problem (e.g. hierarchical clustering, Gaussian Mixture Models, complete- and average-link clustering, etc.)
