@@ -9,8 +9,7 @@ Project brief summary:
 * Neural networks: The neural networks in this project have three layers: input layer, hidden layer (`hidden_nodes = 14`) and output layer. It uses forward pass and backpropogation to model and update weights for finding the best model.
 * Model performance: model predictability is tested with test data.
 
-### Project 3.2) 
-[Dog_breed_classification with Convolutional Neural Nets](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects/project-dog-classification)
+### Project 3.2) [Dog_breed_classification with Convolutional Neural Nets](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects/project-dog-classification)
 
 ------
 
