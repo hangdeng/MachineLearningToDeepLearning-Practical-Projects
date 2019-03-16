@@ -20,7 +20,7 @@ Project steps brief summary:
 * Justify if more features should be included.
 
 
-### Project I: 2) [Find_donors](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/finding_donors.ipynb): ###
+**Project I-2** [Find_donors](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/finding_donors.ipynb): ###
 ------
 Project steps:
 * Evaluate three classifiers (e.g. SVC, Statistical Gradient Descent classifier, essemble methods-adaboost, logistic regression, etc.) by training the models with training data and computing accuracy_score and f0.5_score for model performance on training data and testing data. 
@@ -47,8 +47,8 @@ Project brief summary:
 
 # DL
 
-### Project III: ### [Deep Learning Practice Projects](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects)
+**Project III:** [Deep Learning Practice Projects](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects)
 
-### Project IV: ### [Deep Learning Specialization](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearningSpecialization)
+**Project IV:** [Deep Learning Specialization](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearningSpecialization)
 
 ------
