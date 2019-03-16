@@ -1,7 +1,10 @@
 # DL Practical Projects
 
+The projects content was originally created by [Udacity.com](https://www.udacity.com/).
+
 ### Project 3.1) [Bike sharing prediction with simple neural nets](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearning-Practical-Projects/Project-Bike_sharing/Predicting_bike_sharing_data.ipynb)
 
+Datasets: included in the folder.
 
 ------
 
@@ -12,7 +15,7 @@ Project brief summary:
 
 ### Project 3.2) [Dog breed classification with Convolutional Neural Nets](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects/project-dog-classification)
 
-Note: Due to the data size limit, the dog dataset can be downloaded from [dog_data](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). The dataset shall be saved as `folder_path\dogImages`. The human dataset can be downloaded from [human_data](http://vis-www.cs.umass.edu/lfw/lfw.tgz). The unzipped folder shall be saved as `folder_path\lfw`.
+Datasets: Due to the data size limit, the dog dataset can be downloaded from [dog_data](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). The dataset shall be saved as `folder_path\dogImages`. The human dataset can be downloaded from [human_data](http://vis-www.cs.umass.edu/lfw/lfw.tgz). The unzipped folder shall be saved as `folder_path\lfw`.
 
 ------
 
