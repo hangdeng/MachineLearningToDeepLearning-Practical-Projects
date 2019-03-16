@@ -1,5 +1,5 @@
 ## Machine Learning, Deep Learning Practical Projects
-[Github Project Page](https://hangdeng.github.io/MachineLearningToDeepLearning-Practical-Projects/)
+[Projects Github Page](https://hangdeng.github.io/MachineLearningToDeepLearning-Practical-Projects/)
 
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 
