@@ -47,8 +47,8 @@ Project brief summary:
 
 # DL
 
-Project III: [Deep Learning Practice Projects](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects)
+### Project III: ### [Deep Learning Practice Projects](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects)
 
-Project IV: [Deep Learning Specialization](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearningSpecialization)
+### Project IV: ### [Deep Learning Specialization](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearningSpecialization)
 
 ------
