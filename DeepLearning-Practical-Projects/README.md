@@ -1,6 +1,6 @@
 # DL Practical Projects
 
-The projects content was originally created by [Udacity.com](https://www.udacity.com/).
+The projects content was originally created by Udacity.com - [Github](https://github.com/udacity).
 
 ### Project 3.1) [Bike sharing prediction with simple neural nets](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearning-Practical-Projects/Project-Bike_sharing/Predicting_bike_sharing_data.ipynb)
 
