@@ -21,4 +21,4 @@ Datasets: Due to the data size limit, the dog dataset can be downloaded from [do
 
 Project brief summary:
 
-======
+------
