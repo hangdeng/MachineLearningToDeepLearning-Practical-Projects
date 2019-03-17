@@ -20,5 +20,7 @@ Project brief summary:
 Datasets: Due to the data size limit, the dog dataset can be downloaded from [dog_data](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). The dataset shall be saved as `folder_path\dogImages`. The human dataset can be downloaded from [human_data](http://vis-www.cs.umass.edu/lfw/lfw.tgz). The unzipped folder shall be saved as `folder_path\lfw`.
 
 Project brief summary:
-
+* 
+* Model from Scratch
 ------
+
