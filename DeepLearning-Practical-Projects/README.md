@@ -23,9 +23,9 @@ Project brief summary:
 * 1 - Test human images with OpenCV human face detector (`cv2.CascadeClassifier`); 2- Test dog images with pre-trained CNN models (e.g. vgg16, ResNet50). (`tqdm` library is used to visualize progress bar during code running)
 
 * Model from Scratch:
- 1. The CNN model architecture from scratch include 5 convolutional layers which increase the depth 3 -> 16 -> 32 -> 64 -> 128 -> 256.
- 2. `MaxPool2d(2,2)` is applied between every convolutional layer.
- 3. relu activation function is applied after every pooling layer.
- 4. 2 linear transformation layers are added to transfer output of convolutional layers to 500, and then -> 133 classes of dog breeds.
+  1. The CNN model architecture from scratch include 5 convolutional layers which increase the depth 3 -> 16 -> 32 -> 64 -> 128 -> 256.
+  2. `MaxPool2d(2,2)` is applied between every convolutional layer.
+  3. relu activation function is applied after every pooling layer.
+  4. 2 linear transformation layers are added to transfer output of convolutional layers to 500, and then -> 133 classes of dog breeds.
 ------
 
