@@ -22,8 +22,11 @@ Datasets: Due to the data size limit, the dog dataset can be downloaded from [do
 Project brief summary:
 * 1 - Test human images with OpenCV human face detector (`cv2.CascadeClassifier`); 2- Test dog images with pre-trained CNN models (e.g. vgg16, ResNet50). (`tqdm` library is used to visualize progress bar during code running)
 * Model from Scratch:
+
 ...The CNN model architecture from scratch include 5 convolutional layers which increase the depth 3 -> 16 -> 32 -> 64 -> 128 -> 256.
+
 ...`MaxPool2d(2,2)` is applied between every convolutional layers.
+
 ...
 ------
 
