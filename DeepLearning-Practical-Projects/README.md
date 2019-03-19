@@ -20,7 +20,8 @@ Project brief summary:
 Datasets: Due to the data size limit, the dog dataset can be downloaded from [dog_data](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). The dataset shall be saved as `folder_path\dogImages`. The human dataset can be downloaded from [human_data](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip). The unzipped folder shall be saved as `folder_path\lfw`.
 
 Project brief summary:
-* 
-* Model from Scratch
+* 1 - Test human images with OpenCV human face detector (`cv2.CascadeClassifier`); 2- Test dog images with pre-trained CNN models (e.g. vgg16, ResNet50). (`tqdm` library is used to visualize progress bar during code running)
+* Model from Scratch:
+
 ------
 
