@@ -29,7 +29,7 @@ Project steps brief summary:
 
 Project steps:
 * Evaluate three classifiers (e.g. SVC, Statistical Gradient Descent classifier, essemble methods-adaboost, logistic regression, etc.) by training the models with training data and computing accuracy_score and f0.5_score for model performance on training data and testing data. 
-* The best model is selected based on computing time, and model performance (accuracy_score, f_score - `\beta=0.5`). 
+* The best model is selected based on computing time, and model performance (accuracy_score, f_score - `$beta$=0.5`). 
 * After best model selected, GridSearchCV is used for hyperparameter tuning and model optimization. 
 
 ------
