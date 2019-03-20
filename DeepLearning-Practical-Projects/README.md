@@ -30,11 +30,11 @@ Project brief summary:
   5. The Adam optimizer is used with `learnrate = 0.001`. `CrossEntropyLoss()` is used for criterion.
   6. Ran 40 epochs.
   
- * Model from transfer learning:
+* Model from transfer learning:
   1. ResNet50 is selected for the dog breed classification project.
   2. The last layer (linear transformation layer) was modified for 133 classes output.
   3. Ran 20 epochs.
   
- * Predict with the transferred ResNet50 model
+* Predict with the transferred ResNet50 model
 ------
 
