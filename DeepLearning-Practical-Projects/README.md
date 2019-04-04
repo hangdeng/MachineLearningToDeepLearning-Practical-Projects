@@ -38,4 +38,5 @@ Project brief summary:
 * Predict with the transferred ResNet50 model
 ------
 
-#### Project III-3 [TV script generation]()
+#### Project III-3 [TV script generation](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects/project-tv-script-generation):
+
