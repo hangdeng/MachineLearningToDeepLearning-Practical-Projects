@@ -53,4 +53,4 @@ Project brief summary:
   
 * cuda runtime error (59) discussion: [c.20](https://github.com/pytorch/pytorch/issues/9585), [c.70](https://github.com/pytorch/pytorch/issues/6198), solution for the last few cells is to be posted.
 
-#### Project III-4 [face generation](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects/project-face-generation)
+#### Project III-4 [Face generation](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects/project-face-generation)
