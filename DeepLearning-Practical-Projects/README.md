@@ -43,7 +43,7 @@ Project brief summary:
 Project brief summary:
 * 1 - Preprocess text data; 2 - build LSTM model with embedding layer, etc.
 
-* Model build with torch:
+* Model build with pytorch:
   1. Create dictionaries of vocabulary-to-integer and integer-to-vocabulary for the text data.
   2. Tokenize punctuation with `||||`. (e.g. period(.) to `||Period||`).
   3. Batch features and target with [TensorDataset class](https://pytorch.org/docs/stable/data.html) and [DataLoader class](https://pytorch.org/docs/stable/data.html)
