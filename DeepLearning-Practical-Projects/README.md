@@ -40,3 +40,5 @@ Project brief summary:
 
 #### Project III-3 [TV script generation](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects/project-tv-script-generation):
 
+* cuda runtime error (59) discussion: [c.20](https://github.com/pytorch/pytorch/issues/9585), [c.70](https://github.com/pytorch/pytorch/issues/6198)
+
