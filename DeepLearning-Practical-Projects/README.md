@@ -46,7 +46,10 @@ Project brief summary:
 * Model build with torch:
   1. Create dictionaries of vocabulary-to-integer and integer-to-vocabulary for the text data.
   2. Tokenize punctuation with `||||`. (e.g. period(.) to `||Period||`).
-  3.
-
+  3. Batch features and target with [TensorDataset class](https://pytorch.org/docs/stable/data.html) and [DataLoader class](https://pytorch.org/docs/stable/data.html)
+  4. Build LSTM model: include embedding layer (`Embedding_dim = 300`), 2-layer LSTM (`dropout_prob = 0.5`), final fully-connected layer for output. hidden_state is initialized with zero weights.
+  5. Hyperparameters tuning: `sequence_lengths = 10`, `batch_size = 128`, `num_epochs = 10`, `learning_rate = 0.001`, `hidden_dim = 256`, etc.
+  6. Model with lowest training loss is saved among 10-epoch run.
+  
 * cuda runtime error (59) discussion: [c.20](https://github.com/pytorch/pytorch/issues/9585), [c.70](https://github.com/pytorch/pytorch/issues/6198), solution for the last few cells is to be posted.
 
