@@ -40,5 +40,13 @@ Project brief summary:
 
 #### Project III-3 [TV script generation](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects/project-tv-script-generation):
 
-* cuda runtime error (59) discussion: [c.20](https://github.com/pytorch/pytorch/issues/9585), [c.70](https://github.com/pytorch/pytorch/issues/6198)
+Project brief summary:
+* 1 - Preprocess text data; 2 - build LSTM model with embedding layer, etc.
+
+* Model build with torch:
+  1. Create dictionaries of vocabulary-to-integer and integer-to-vocabulary for the text data.
+  2. Tokenize punctuation with `||||`. (e.g. period(.) to `||Period||`).
+  3.
+
+* cuda runtime error (59) discussion: [c.20](https://github.com/pytorch/pytorch/issues/9585), [c.70](https://github.com/pytorch/pytorch/issues/6198), solution for the last few cells is to be posted.
 
