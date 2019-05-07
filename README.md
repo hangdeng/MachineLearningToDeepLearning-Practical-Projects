@@ -59,4 +59,4 @@ Project brief summary:
 **Project IV:** [Deep Learning Specialization](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearningSpecialization)
 
 ------
-[<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="hangdeng"><a class="LI-simple-link" href='https://www.linkedin.com/in/hangdeng?trk=profile-badge'>Hang D.</a></div>]
+(<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="hangdeng"><a class="LI-simple-link" href='https://www.linkedin.com/in/hangdeng?trk=profile-badge'>Hang D.</a></div>)
