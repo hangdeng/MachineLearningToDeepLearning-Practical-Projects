@@ -36,6 +36,9 @@ Project brief summary:
   3. Ran 20 epochs.
   
 * Predict with the transferred ResNet50 model
+
+Further reading: [tutorial on understanding convolution layers in CNNs](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
+
 ------
 
 #### Project III-3 [TV script generation](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects/project-tv-script-generation):
