@@ -58,3 +58,9 @@ Project brief summary:
 ------
 
 #### Project III-5 [SageMaker deployment](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects/project-sagemaker_deployment)
+
+Project brief summary:
+* The project uses Amazon Web Services (AWS)'s SageMaker instead of local Jupyter notebook to create deep learning neural nets model for predicting whether the movie reviews in an IMDB dataset are positive or negative.
+* Project steps:
+  1.
+  2.
