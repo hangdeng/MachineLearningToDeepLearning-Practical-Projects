@@ -58,10 +58,5 @@ Project brief summary:
 
 **Project IV:** [Deep Learning Specialization](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearningSpecialization)
 
-Project brief summary:
-- The project uses Amazon Web Services (AWS)'s SageMaker instead of local Jupyter notebook to create deep learning neural nets model for predicting whether the movie reviews in an IMDB dataset are positive or negative.
-- Project steps:
-
-
 ------
 
