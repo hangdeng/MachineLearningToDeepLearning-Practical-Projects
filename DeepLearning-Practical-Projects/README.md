@@ -55,4 +55,4 @@ Project brief summary:
 
 #### Project III-4 [Faces generation](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects/project-faces-generation)
 
-#### Project III-5 [SageMaker Deployment]()
+#### Project III-5 [SageMaker deployment](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/tree/master/DeepLearning-Practical-Projects/project-sagemaker_deployment)
