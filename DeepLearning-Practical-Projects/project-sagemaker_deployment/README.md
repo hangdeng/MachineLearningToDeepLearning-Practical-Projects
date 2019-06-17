@@ -6,4 +6,5 @@ The notebook and Python files provided here, once completed, result in a simple 
 * Project steps:
 
 * The web app shall look like: 
+
 ![Deployment Web App](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearning-Practical-Projects/project-sagemaker_deployment/Deployment%20Screen%20Capture.PNG)
