@@ -1,6 +1,6 @@
 ## DL Practical Projects
 
-The contents of the projects below were originally created by www.udacity.com - [Github](https://github.com/udacity).
+The contents of the projects below were originally created by www.udacity.com - [Github](https://github.com/udacity/deep-learning-v2-pytorch).
 
 ------
 
