@@ -71,7 +71,7 @@ Project brief summary:
   2.
 
 <p align="center">
-  <img src="https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearning-Practical-Projects/certificate%20DL%201.PNG" width="660">
+  <img src="https://github.com/hangdeng/Reviews-Certificates/blob/master/certificates/certificate%20DL%201.PNG" width="660">
  </p>
  
  ------
