@@ -69,3 +69,4 @@ Project brief summary:
   2.
 
 ![deep learning certificate 1](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearning-Practical-Projects/certificate%20DL%201.PNG)
+<img src="https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearning-Practical-Projects/certificate%20DL%201.PNG" width="48">
