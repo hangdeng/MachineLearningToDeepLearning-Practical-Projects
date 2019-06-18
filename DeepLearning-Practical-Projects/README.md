@@ -68,6 +68,4 @@ Project brief summary:
   1.
   2.
 
-[Certificate](https://confirm.udacity.com/CFNS4RHQ)
-
-------
+![deep learning certificate 1](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearning-Practical-Projects/deep%20learning%20certificate%201.JPG)
