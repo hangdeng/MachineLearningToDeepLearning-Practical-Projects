@@ -11,7 +11,7 @@ Machine learning scripts in Python Jupyter notebook
 
 ------
 
-#### Project I-1 [Boston_housing](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/boston_housing.ipynb):
+#### Project I-1 [Boston_housing](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/boston_housing/boston_housing.ipynb):
 
 The project uses supervised learning algorithms to train models with Boston Housing dataset in order to make prediction of prices for clients who intend to purchase houses.
 Dataset: Boston Housing Prices and Features (e.g. numbers of rooms, student-to-teacher ratios, etc.) from Kaggle
@@ -25,7 +25,7 @@ Project steps brief summary:
 
 ------
 
-#### Project I-2 [Find_donors](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/finding_donors.ipynb):
+#### Project I-2 [Find_donors](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/finding_donors/finding_donors.ipynb):
 
 Project steps:
 * Evaluate three classifiers (e.g. SVC, Statistical Gradient Descent classifier, essemble methods-adaboost, logistic regression, etc.) by training the models with training data and computing accuracy_score and f0.5_score for model performance on training data and testing data. 
@@ -34,7 +34,7 @@ Project steps:
 
 ------
 
-#### Project I-3 [Create_customer_segments](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/customer_segments.ipynb):
+#### Project I-3 [Create_customer_segments](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/customer_segments/customer_segments.ipynb):
 
 Project brief summary:
 - Unsupervised learning problem (e.g. hierarchical clustering, Gaussian Mixture Models, complete- and average-link clustering, etc.)
