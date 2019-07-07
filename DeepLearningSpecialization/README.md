@@ -13,4 +13,4 @@ Project steps brief summary:
 * Apply the scratched functions to build a multi-perceptron neural networks model to classify cat and non-cat images. `hidden_layer = 2`. One is with relu activation function, and the other is with sigmoid activation function.
 ------
 
-#### Project IV-2:
+#### Project IV-2: [](), [Weight Initialization](), [Regularization]() 
