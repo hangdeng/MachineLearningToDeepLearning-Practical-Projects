@@ -14,3 +14,8 @@ Project steps brief summary:
 ------
 
 #### Project IV-2: [Gradient Checking](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearningSpecialization/Improving%20Deep%20Neural%20Networks/week5/Gradient%20Checking/Gradient%2BChecking%2Bv1.ipynb), [Weight Initialization](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearningSpecialization/Improving%20Deep%20Neural%20Networks/week5/Initialization/Initialization.ipynb), [Regularization](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearningSpecialization/Improving%20Deep%20Neural%20Networks/week5/Regularization/Regularization%2B-%2Bv2.ipynb), [Optimization](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearningSpecialization/Improving%20Deep%20Neural%20Networks/week6/Optimization%2Bmethods.ipynb), [Tensorflow Tutorial](https://github.com/hangdeng/MachineLearningToDeepLearning-Practical-Projects/blob/master/DeepLearningSpecialization/Improving%20Deep%20Neural%20Networks/week7/Tensorflow%2BTutorial.ipynb)
+
+
+------
+
+#### Project IV-3:
