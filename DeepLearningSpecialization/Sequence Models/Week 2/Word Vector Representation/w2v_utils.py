@@ -99,7 +99,8 @@ class SimilarityCallback:
     
 
 def read_glove_vecs(glove_file):
-    with open(glove_file, 'r') as f:
+#     with open(glove_file, 'r') as f:
+    with open(glove_file, 'r', encoding="utf8") as f:
         words = set()
         word_to_vec_map = {}
         
@@ -114,10 +115,8 @@ def read_glove_vecs(glove_file):
 def relu(x):
     """
     Compute the relu of x
-
     Arguments:
     x -- A scalar or numpy array of any size.
-
     Return:
     s -- relu(x)
     """
