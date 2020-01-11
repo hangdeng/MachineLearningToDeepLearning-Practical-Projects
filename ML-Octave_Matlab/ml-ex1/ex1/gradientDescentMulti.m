@@ -18,8 +18,9 @@ for iter = 1:num_iters
     %
 
 
-
-
+    error = X*theta-y;
+    theta = theta - alpha/m*sum(X'*error);
+    
 
 
 
